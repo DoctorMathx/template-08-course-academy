@@ -16,7 +16,7 @@ export const siteConfig = {
   instructor: {
     name: "Dr. Tolu Ladipo",
     role: "Founder & lead instructor",
-    portrait: "/img/creator.png",
+    portrait: "/img/hero-portrait.jpg",
     shortBio:
       "Two decades in product and pedagogy. I teach the courses I wish I could have taken when I was starting out — clear, useful, no fluff.",
     metric: "12,400+ students across 41 countries",
